@@ -7,3 +7,11 @@ git add
 git push
 git commit
 git merge 
+ git init 
+ vi file
+ git add 
+ git commit 
+ git merge 
+ git merge branch b2
+ git add 
+  git commit git push 
