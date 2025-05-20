@@ -2,5 +2,7 @@
  vi file
  git add 
  git commit 
- git merge 
+ git merge
+ bites bite 
+ iiit
 
