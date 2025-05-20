@@ -3,4 +3,7 @@
  git add 
  git commit 
  git merge 
+ git merge branch b2
+ git add 
+  git commit git push 
 
