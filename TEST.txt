@@ -1,0 +1,9 @@
+amity university bangalore
+harrow international school
+git bash
+git hub 
+git remote 
+git add
+git push
+git commit
+git merge 
